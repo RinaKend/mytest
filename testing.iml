@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Test">
+
+    <test name="SignUpService">
+        <classes>
+            <class name="org.example.BrowserTest" />
+            <class name="org.example.LoginAuthTest" />
+            <class name="org.example.LoginTest" />
+            <class name="org.example.LogoutTest" />
+            <class name="org.example.NameTest" />
+            <class name="org.example.NumberAttemptsTest" />
+            <class name="org.example.PageTest" />
+            <class name="org.example.PasswordAuthTest" />
+            <class name="org.example.PasswordTest" />
+            <class name="org.example.RememberMeTest" />
+            <class name="org.example.ScenarioTest" />
+            <class name="org.example.SpecialTest" />
+        </classes>
+    </test>
+
+</suite>
